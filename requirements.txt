@@ -1,3 +1,0 @@
-Flask
-pandas
-pickle5  # If using Python 3.8+, you may need this for pickle
